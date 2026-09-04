@@ -2,105 +2,82 @@
 
 ## About Me
 
-I am a detail-oriented AI data contributor with experience in reviewing, verifying, organizing, and annotating information for AI and machine learning applications.
+I am a detail-oriented AI data contributor focused on reviewing, verifying, organizing, extracting, and annotating information for AI and machine learning applications.
 
 I focus on accuracy, consistency, attention to detail, and following task-specific guidelines.
 
 ## Core Skills
 
-- Data verification and validation
-- Image labeling and annotation
-- Information extraction from images
-- Data categorization and classification
-- Comparing information and identifying differences
-- Correct/incorrect data verification
-- Transcription of text from images and documents
-- AI data annotation and quality control
+* Data categorization and classification
+* Data verification and validation
+* Image annotation and labeling
+* Information extraction from images and documents
+* Identifying inconsistencies and discrepancies
+* Following task-specific instructions
+* Quality control and accuracy checking
 
-## Sample Task Experience
+## Portfolio Samples
 
-### 1. Data Verification
+### 1. Data Categorization
 
-I review information carefully to determine whether it is accurate, complete, and consistent with the provided source or task guidelines.
+I organize information into the appropriate categories based on defined rules and examples.
 
-**Example tasks:**
-- Checking whether information is correct or incorrect
-- Identifying inconsistencies
-- Validating extracted information
-- Reviewing data for accuracy
+**Demonstrated abilities:**
 
-### 2. Image Information Extraction
+* Classifying information
+* Assigning appropriate categories
+* Applying classification rules consistently
+* Distinguishing between similar categories
 
-I can examine images and identify relevant information contained within them.
+[View Data Categorization Sample](examples/data-categorization.md)
 
-**Example tasks:**
-- Reading visible text from images
-- Extracting names, numbers, labels, and other relevant details
-- Identifying objects and attributes
-- Recording extracted information accurately
+---
 
-### 3. Image Labeling
+### 2. Data Verification
 
-I can identify and label objects, elements, or other relevant features within images according to provided guidelines.
+I review information against a source or reference to determine whether it is accurate, complete, and consistent.
 
-**Example tasks:**
-- Identifying objects in images
-- Assigning appropriate labels
-- Distinguishing between similar objects
-- Following predefined annotation instructions
+**Demonstrated abilities:**
 
-### 4. Categorization
+* Checking whether information is correct or incorrect
+* Identifying inconsistencies
+* Comparing information with a reference
+* Performing quality checks
+* Following verification guidelines
 
-I can organize information into the appropriate categories based on defined rules and examples.
+[View Data Verification Sample](examples/data-verification.md)
 
-**Example tasks:**
-- Classifying information
-- Assigning categories to images or text
-- Applying consistent classification rules
-- Handling similar or related categories carefully
+---
 
-### 5. Information Comparison
+### 3. Image Annotation
 
-I can compare two pieces of information and determine whether they are the same, different, or contain meaningful discrepancies.
+I identify and label objects, elements, or relevant features within images according to provided annotation guidelines.
 
-**Example tasks:**
-- Comparing text
-- Comparing image information
-- Identifying differences
-- Checking matching details
+**Demonstrated abilities:**
 
-### 6. Correctness Checking
+* Identifying objects in images
+* Assigning appropriate labels
+* Distinguishing between similar objects
+* Applying annotation instructions consistently
+* Reviewing annotations for accuracy
 
-I can evaluate information against a source, reference, or set of instructions to determine whether it is correct.
+[View Image Annotation Sample](examples/image-annotation.md)
 
-**Example tasks:**
-- Correct vs. incorrect classification
-- Identifying missing information
-- Detecting inaccurate information
-- Following quality-control guidelines
+---
 
-### 7. Transcription
+### 4. Information Extraction
 
-I can accurately transcribe visible text from images and other provided sources.
+I identify relevant information from images or documents and record it accurately in a structured format.
 
-**Example tasks:**
-- Transcribing printed text
-- Transcribing labels and signs
-- Maintaining the original wording
-- Reviewing transcriptions for errors
+**Demonstrated abilities:**
 
-### 8. AI Data Annotation
+* Extracting names, numbers, dates, labels, and other details
+* Identifying relevant data fields
+* Organizing extracted information
+* Preserving the original meaning
+* Checking extracted information against the source
 
-I understand the importance of producing accurate, consistent, and well-structured annotations for datasets used in AI and machine learning systems.
-
-My approach includes:
-
-- Carefully reading task instructions
-- Following annotation guidelines
-- Maintaining consistency
-- Reviewing work before submission
-- Paying attention to small details
-- Flagging unclear or ambiguous information when required
+[View Information Extraction Sample](examples/information-extraction.md)
 
 ## Quality Approach
 
@@ -108,13 +85,13 @@ For every task, I aim to:
 
 1. Read and understand the instructions before starting.
 2. Examine the provided information carefully.
-3. Apply the required labels or classifications consistently.
+3. Apply the required labels, classifications, or extraction rules consistently.
 4. Double-check my work for errors.
 5. Prioritize accuracy and attention to detail.
 6. Follow project-specific guidelines and quality standards.
 
 ## Portfolio Purpose
 
-This portfolio demonstrates my ability to perform common AI data and data annotation tasks, including information verification, image labeling, information extraction, categorization, comparison, transcription, and quality checking.
+This portfolio demonstrates my ability to perform common AI data annotation, verification, categorization, image annotation, and information extraction tasks.
 
-I am interested in opportunities involving AI data annotation, data verification, image labeling, content review, transcription, and related data quality tasks.
+It is intended to demonstrate my approach to producing accurate, consistent, and well-structured data for AI and machine learning workflows.
